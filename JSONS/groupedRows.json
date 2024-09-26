@@ -1,0 +1,1239 @@
+[
+  {
+    "requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+    "rows": [
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "PH 1121 - Principles Of Physics-Electricity And Magnetism",
+        "Academic Period": "2021 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 2103 - Accelerated Object-Oriented Design Concepts",
+        "Academic Period": "2021 Fall B Term",
+        "Credits": "3",
+        "Grade": "B"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 1102 - Accelerated Introduction To Program Design",
+        "Academic Period": "2021 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "PE 1011 - Touch Football",
+        "Academic Period": "2021 Fall A Term",
+        "Credits": "0.75",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 1024 - Calculus IV",
+        "Academic Period": "2021 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ES 2501 - Introduction To Static Systems",
+        "Academic Period": "2021 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 2051 - Ordinary Differential Equations",
+        "Academic Period": "2021 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ECE 2010 - Introduction To Electrical And Computer Engineering",
+        "Academic Period": "2022 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 2071 - Matrices And Linear Algebra I",
+        "Academic Period": "2022 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ES 1310 - Introduction To Computer Aided Design",
+        "Academic Period": "2022 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 2223 - Algorithms",
+        "Academic Period": "2022 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "HI 2350 - Topics In The History Of Science",
+        "Academic Period": "2022 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "RBE 1001 - Introduction To Robotics",
+        "Academic Period": "2022 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "PE 1212 - Club Sport - Men's Lacrosse Team",
+        "Academic Period": "2022 Spring D Term",
+        "Credits": "0.75",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 3043 - Social Implications Of Information Processing",
+        "Academic Period": "2022 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ECON 1110 - Introductory Microeconomics",
+        "Academic Period": "2022 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "RBE 2001 - Unified Robotics I",
+        "Academic Period": "2022 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "RBE 2002 - Unified Robotics II",
+        "Academic Period": "2022 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 2621 - Probability For Applications",
+        "Academic Period": "2022 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MU 1511 - Introduction To Music",
+        "Academic Period": "2023 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 2011 - Introduction To Machine Organization And Assembly Language",
+        "Academic Period": "2023 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 3516 - Computer Networks",
+        "Academic Period": "2023 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ECE 2049 - Embedded Computing In Engineering Design",
+        "Academic Period": "2023 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "HI 2310 - Topics In Urban History",
+        "Academic Period": "2023 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 2303 - Systems Programming Concepts",
+        "Academic Period": "2023 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "HI 1312 - Introduction To American Social History",
+        "Academic Period": "2022 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ID 2050 - SOC SCI RES-IQP-",
+        "Academic Period": "2023 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "PE 1225 - Club Sport - Scuba Co-Ed",
+        "Academic Period": "2023 Spring Semester",
+        "Credits": "0.75",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 3013 - Operating Systems",
+        "Academic Period": "2023 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ES 3011 - Control Engineering I",
+        "Academic Period": "2023 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "RBE 3001 - Unified Robotics III",
+        "Academic Period": "2023 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "RBE 3002 - Unified Robotics IV",
+        "Academic Period": "2023 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "PY 1731/ RE 1731 - Introduction To Philosophy And Religion",
+        "Academic Period": "2023 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 3733 - Software Engineering",
+        "Academic Period": "2024 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 3133 - Foundations Of Computer Science",
+        "Academic Period": "2024 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "HU 3900 - Inquiry Seminar In Humanities And Arts",
+        "Academic Period": "2024 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ID PQP - Pre/Post Qualifying Project",
+        "Academic Period": "2023 Fall B Term",
+        "Credits": "1.5",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ID IQP - Interactive Qualifying Project",
+        "Academic Period": "2024 Spring C Term",
+        "Credits": "9",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CDR IQP - Completion of Degree Requirement IQP",
+        "Academic Period": "2024 Spring C Term",
+        "Credits": "0",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 542 - Database Management Systems",
+        "Academic Period": "2024 Summer Semester",
+        "Credits": "4.5",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CDR HUA - Completion of Degree Requirement HUA",
+        "Academic Period": "2024 Spring D Term",
+        "Credits": "0",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 1021 - Calculus I (Transfer Credit)",
+        "Credits": "3",
+        "Grade": "L"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 1022 - Calculus II (Transfer Credit)",
+        "Credits": "3",
+        "Grade": "L"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 1023 - Calculus III (Transfer Credit)",
+        "Credits": "3",
+        "Grade": "L"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CH 1010 - Chemical Properties, Bonding, And Forces (Transfer Credit)",
+        "Credits": "3",
+        "Grade": "L"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "PH 1110 - General Physics-Mechanics (Transfer Credit)",
+        "Credits": "3",
+        "Grade": "L"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 2611 - Applied Statistics I (Transfer Credit)",
+        "Credits": "3",
+        "Grade": "L"
+      },
+      {
+        "Requirement": "WPI Total Credits Required - Undergraduate - 135 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "FY 1800 - Discovering Majors And Careers",
+        "Credits": "0.75",
+        "Grade": "P"
+      }
+    ]
+  },
+  {
+    "requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+    "rows": [
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "PH 1121 - Principles Of Physics-Electricity And Magnetism",
+        "Academic Period": "2021 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 2103 - Accelerated Object-Oriented Design Concepts",
+        "Academic Period": "2021 Fall B Term",
+        "Credits": "3",
+        "Grade": "B"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 1102 - Accelerated Introduction To Program Design",
+        "Academic Period": "2021 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "PE 1011 - Touch Football",
+        "Academic Period": "2021 Fall A Term",
+        "Credits": "0.75",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 1024 - Calculus IV",
+        "Academic Period": "2021 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ES 2501 - Introduction To Static Systems",
+        "Academic Period": "2021 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 2051 - Ordinary Differential Equations",
+        "Academic Period": "2021 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ECE 2010 - Introduction To Electrical And Computer Engineering",
+        "Academic Period": "2022 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 2071 - Matrices And Linear Algebra I",
+        "Academic Period": "2022 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ES 1310 - Introduction To Computer Aided Design",
+        "Academic Period": "2022 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 2223 - Algorithms",
+        "Academic Period": "2022 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "HI 2350 - Topics In The History Of Science",
+        "Academic Period": "2022 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "RBE 1001 - Introduction To Robotics",
+        "Academic Period": "2022 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "PE 1212 - Club Sport - Men's Lacrosse Team",
+        "Academic Period": "2022 Spring D Term",
+        "Credits": "0.75",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 3043 - Social Implications Of Information Processing",
+        "Academic Period": "2022 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ECON 1110 - Introductory Microeconomics",
+        "Academic Period": "2022 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "RBE 2001 - Unified Robotics I",
+        "Academic Period": "2022 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "RBE 2002 - Unified Robotics II",
+        "Academic Period": "2022 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 2621 - Probability For Applications",
+        "Academic Period": "2022 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 2011 - Introduction To Machine Organization And Assembly Language",
+        "Academic Period": "2023 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 3516 - Computer Networks",
+        "Academic Period": "2023 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ECE 2049 - Embedded Computing In Engineering Design",
+        "Academic Period": "2023 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "HI 2310 - Topics In Urban History",
+        "Academic Period": "2023 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 2303 - Systems Programming Concepts",
+        "Academic Period": "2023 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "HI 1312 - Introduction To American Social History",
+        "Academic Period": "2022 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "PE 1225 - Club Sport - Scuba Co-Ed",
+        "Academic Period": "2023 Spring Semester",
+        "Credits": "0.75",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Residency Requirement - Undergraduate - 72 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "FY 1800 - Discovering Majors And Careers",
+        "Credits": "0.75",
+        "Grade": "P"
+      }
+    ]
+  },
+  {
+    "requirement": "WPI Major Qualifying Project (Computer Science BS) Requirement - Undergraduate - 9 or 12 Credits",
+    "rows": [
+      {
+        "Requirement": "WPI Major Qualifying Project (Computer Science BS) Requirement - Undergraduate - 9 or 12 Credits",
+        "Status": "In Progress",
+        "Registrations Used": "ID MQP - Major Qualifying Project (In Progress)",
+        "Academic Period": "2024 Fall B Term",
+        "Credits": "9"
+      },
+      {
+        "Requirement": "WPI Major Qualifying Project (Computer Science BS) Requirement - Undergraduate - 9 or 12 Credits",
+        "Status": "In Progress",
+        "Registrations Used": "ID MQP - Major Qualifying Project (In Progress)",
+        "Academic Period": "2024 Fall A Term",
+        "Credits": "1.5"
+      },
+      {
+        "Requirement": "WPI Major Qualifying Project (Computer Science BS) Requirement - Undergraduate - 9 or 12 Credits",
+        "Status": "In Progress",
+        "Registrations Used": "ID MQP - Major Qualifying Project (In Progress)",
+        "Academic Period": "2025 Spring C Term",
+        "Credits": "1.5"
+      }
+    ]
+  },
+  {
+    "requirement": "WPI Major Qualifying Project Completion of Degree Requirement - Undergraduate",
+    "rows": [
+      {
+        "Requirement": "WPI Major Qualifying Project Completion of Degree Requirement - Undergraduate",
+        "Status": "Not Satisfied",
+        "Remaining": "Minimum 1 Course(s)"
+      }
+    ]
+  },
+  {
+    "requirement": "WPI Interactive Qualifying Project Requirement - Undergraduate - Minimum 9 Credits",
+    "rows": [
+      {
+        "Requirement": "WPI Interactive Qualifying Project Requirement - Undergraduate - Minimum 9 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ID IQP - Interactive Qualifying Project",
+        "Academic Period": "2024 Spring C Term",
+        "Credits": "9",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "requirement": "WPI Interactive Qualifying Project Completion of Degree Requirement - Undergraduate",
+    "rows": [
+      {
+        "Requirement": "WPI Interactive Qualifying Project Completion of Degree Requirement - Undergraduate",
+        "Status": "Satisfied",
+        "Registrations Used": "CDR IQP - Completion of Degree Requirement IQP",
+        "Academic Period": "2024 Spring C Term",
+        "Credits": "0",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "requirement": "WPI Humanities and Arts Requirement - Undergraduate - 18 Credits",
+    "rows": [
+      {
+        "Requirement": "WPI Humanities and Arts Requirement - Undergraduate - 18 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "HI 2350 - Topics In The History Of Science",
+        "Academic Period": "2022 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Humanities and Arts Requirement - Undergraduate - 18 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MU 1511 - Introduction To Music",
+        "Academic Period": "2023 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Humanities and Arts Requirement - Undergraduate - 18 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "HI 2310 - Topics In Urban History",
+        "Academic Period": "2023 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Humanities and Arts Requirement - Undergraduate - 18 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "HI 1312 - Introduction To American Social History",
+        "Academic Period": "2022 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Humanities and Arts Requirement - Undergraduate - 18 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "PY 1731/ RE 1731 - Introduction To Philosophy And Religion",
+        "Academic Period": "2023 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Humanities and Arts Requirement - Undergraduate - 18 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "HU 3900 - Inquiry Seminar In Humanities And Arts",
+        "Academic Period": "2024 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "requirement": "WPI Humanities and Arts Completion of Degree Requirement - Undergraduate",
+    "rows": [
+      {
+        "Requirement": "WPI Humanities and Arts Completion of Degree Requirement - Undergraduate",
+        "Status": "Satisfied",
+        "Registrations Used": "CDR HUA - Completion of Degree Requirement HUA",
+        "Academic Period": "2024 Spring D Term",
+        "Credits": "0",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "requirement": "WPI Social Science Requirement - Undergraduate - 6 Credits",
+    "rows": [
+      {
+        "Requirement": "WPI Social Science Requirement - Undergraduate - 6 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ECON 1110 - Introductory Microeconomics",
+        "Academic Period": "2022 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Social Science Requirement - Undergraduate - 6 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ID 2050 - SOC SCI RES-IQP-",
+        "Academic Period": "2023 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "requirement": "WPI Physical Education Requirement - Undergraduate - 3 Credits",
+    "rows": [
+      {
+        "Requirement": "WPI Physical Education Requirement - Undergraduate - 3 Credits",
+        "Status": "In Progress",
+        "Registrations Used": "PE 1011 - Touch Football",
+        "Academic Period": "2021 Fall A Term",
+        "Credits": "0.75",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Physical Education Requirement - Undergraduate - 3 Credits",
+        "Status": "In Progress",
+        "Registrations Used": "PE 1212 - Club Sport - Men's Lacrosse Team",
+        "Academic Period": "2022 Spring D Term",
+        "Credits": "0.75",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Physical Education Requirement - Undergraduate - 3 Credits",
+        "Status": "In Progress",
+        "Registrations Used": "PE 1225 - Club Sport - Scuba Co-Ed",
+        "Academic Period": "2023 Spring Semester",
+        "Credits": "0.75",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "WPI Physical Education Requirement - Undergraduate - 3 Credits",
+        "Status": "In Progress",
+        "Registrations Used": "WPE 1019 - Soccer (In Progress)",
+        "Academic Period": "2025 Spring C Term",
+        "Credits": "0.75"
+      }
+    ]
+  },
+  {
+    "requirement": "Computer Science - Probability and Statistics Requirement - Undergraduate - 6 Credits",
+    "rows": [
+      {
+        "Requirement": "Computer Science - Probability and Statistics Requirement - Undergraduate - 6 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 2621 - Probability For Applications",
+        "Academic Period": "2022 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Computer Science - Probability and Statistics Requirement - Undergraduate - 6 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 2611 - Applied Statistics I (Transfer Credit)",
+        "Credits": "3",
+        "Grade": "L"
+      }
+    ]
+  },
+  {
+    "requirement": "Computer Science - Mathematics Requirement - Undergraduate - 15 Credits",
+    "rows": [
+      {
+        "Requirement": "Computer Science - Mathematics Requirement - Undergraduate - 15 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 1024 - Calculus IV",
+        "Academic Period": "2021 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Computer Science - Mathematics Requirement - Undergraduate - 15 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 2051 - Ordinary Differential Equations",
+        "Academic Period": "2021 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Computer Science - Mathematics Requirement - Undergraduate - 15 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 1021 - Calculus I (Transfer Credit)",
+        "Credits": "3",
+        "Grade": "L"
+      },
+      {
+        "Requirement": "Computer Science - Mathematics Requirement - Undergraduate - 15 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 1022 - Calculus II (Transfer Credit)",
+        "Credits": "3",
+        "Grade": "L"
+      },
+      {
+        "Requirement": "Computer Science - Mathematics Requirement - Undergraduate - 15 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "MA 1023 - Calculus III (Transfer Credit)",
+        "Credits": "3",
+        "Grade": "L"
+      }
+    ]
+  },
+  {
+    "requirement": "Computer Science - Basic Science Discipline Requirement - Undergraduate - 6 Credits",
+    "rows": [
+      {
+        "Requirement": "Computer Science - Basic Science Discipline Requirement - Undergraduate - 6 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "PH 1121 - Principles Of Physics-Electricity And Magnetism",
+        "Academic Period": "2021 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Computer Science - Basic Science Discipline Requirement - Undergraduate - 6 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "PH 1110 - General Physics-Mechanics (Transfer Credit)",
+        "Credits": "3",
+        "Grade": "L"
+      }
+    ]
+  },
+  {
+    "requirement": "Computer Science - Basic and/or Engineering Science Requirement - Undergraduate - 9 Credits",
+    "rows": [
+      {
+        "Requirement": "Computer Science - Basic and/or Engineering Science Requirement - Undergraduate - 9 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ES 2501 - Introduction To Static Systems",
+        "Academic Period": "2021 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Computer Science - Basic and/or Engineering Science Requirement - Undergraduate - 9 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "ECE 2010 - Introduction To Electrical And Computer Engineering",
+        "Academic Period": "2022 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Computer Science - Basic and/or Engineering Science Requirement - Undergraduate - 9 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CH 1010 - Chemical Properties, Bonding, And Forces (Transfer Credit)",
+        "Credits": "3",
+        "Grade": "L"
+      }
+    ]
+  },
+  {
+    "requirement": "Computer Science - Core Requirement - Undergraduate - 36 Credits",
+    "rows": [
+      {
+        "Requirement": "Computer Science - Core Requirement - Undergraduate - 36 Credits",
+        "Status": "In Progress",
+        "Remaining": "Minimum 3 Credit(s)",
+        "Registrations Used": "CS 2103 - Accelerated Object-Oriented Design Concepts",
+        "Academic Period": "2021 Fall B Term",
+        "Credits": "3",
+        "Grade": "B"
+      },
+      {
+        "Requirement": "Computer Science - Core Requirement - Undergraduate - 36 Credits",
+        "Status": "In Progress",
+        "Remaining": "Minimum 3 Credit(s)",
+        "Registrations Used": "CS 1102 - Accelerated Introduction To Program Design",
+        "Academic Period": "2021 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Computer Science - Core Requirement - Undergraduate - 36 Credits",
+        "Status": "In Progress",
+        "Remaining": "Minimum 3 Credit(s)",
+        "Registrations Used": "CS 2223 - Algorithms",
+        "Academic Period": "2022 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Computer Science - Core Requirement - Undergraduate - 36 Credits",
+        "Status": "In Progress",
+        "Remaining": "Minimum 3 Credit(s)",
+        "Registrations Used": "CS 3043 - Social Implications Of Information Processing",
+        "Academic Period": "2022 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Computer Science - Core Requirement - Undergraduate - 36 Credits",
+        "Status": "In Progress",
+        "Remaining": "Minimum 3 Credit(s)",
+        "Registrations Used": "CS 2011 - Introduction To Machine Organization And Assembly Language",
+        "Academic Period": "2023 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Computer Science - Core Requirement - Undergraduate - 36 Credits",
+        "Status": "In Progress",
+        "Remaining": "Minimum 3 Credit(s)",
+        "Registrations Used": "CS 3516 - Computer Networks",
+        "Academic Period": "2023 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Computer Science - Core Requirement - Undergraduate - 36 Credits",
+        "Status": "In Progress",
+        "Remaining": "Minimum 3 Credit(s)",
+        "Registrations Used": "CS 2303 - Systems Programming Concepts",
+        "Academic Period": "2023 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Computer Science - Core Requirement - Undergraduate - 36 Credits",
+        "Status": "In Progress",
+        "Remaining": "Minimum 3 Credit(s)",
+        "Registrations Used": "CS 4241 - Webware: Computational Technology For Network Information Systems (In Progress)",
+        "Academic Period": "2024 Fall A Term",
+        "Credits": "3"
+      },
+      {
+        "Requirement": "Computer Science - Core Requirement - Undergraduate - 36 Credits",
+        "Status": "In Progress",
+        "Remaining": "Minimum 3 Credit(s)",
+        "Registrations Used": "CS 4341 - Introduction To Artificial Intelligence (In Progress)",
+        "Academic Period": "2024 Fall A Term",
+        "Credits": "3"
+      },
+      {
+        "Requirement": "Computer Science - Core Requirement - Undergraduate - 36 Credits",
+        "Status": "In Progress",
+        "Remaining": "Minimum 3 Credit(s)",
+        "Registrations Used": "CS 4342 - Machine Learning (In Progress)",
+        "Academic Period": "2025 Spring C Term",
+        "Credits": "3"
+      },
+      {
+        "Requirement": "Computer Science - Core Requirement - Undergraduate - 36 Credits",
+        "Status": "In Progress",
+        "Remaining": "Minimum 3 Credit(s)",
+        "Registrations Used": "CS 4401 - Software Security Engineering (In Progress)",
+        "Academic Period": "2025 Spring D Term",
+        "Credits": "3"
+      }
+    ]
+  },
+  {
+    "requirement": "Computer Science - Systems Requirement - Undergraduate - 3 Credits",
+    "rows": [
+      {
+        "Requirement": "Computer Science - Systems Requirement - Undergraduate - 3 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 3013 - Operating Systems",
+        "Academic Period": "2023 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "requirement": "Computer Science - Theory and Languages Requirement - Undergraduate - 3 Credits",
+    "rows": [
+      {
+        "Requirement": "Computer Science - Theory and Languages Requirement - Undergraduate - 3 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 3133 - Foundations Of Computer Science",
+        "Academic Period": "2024 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "requirement": "Computer Science - Design Requirement - Undergraduate - 3 Credits",
+    "rows": [
+      {
+        "Requirement": "Computer Science - Design Requirement - Undergraduate - 3 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 3733 - Software Engineering",
+        "Academic Period": "2024 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "requirement": "Computer Science - Social Implication of Computing Requirement - Undergraduate - 3 Credits",
+    "rows": [
+      {
+        "Requirement": "Computer Science - Social Implication of Computing Requirement - Undergraduate - 3 Credits",
+        "Status": "Satisfied",
+        "Registrations Used": "CS 3043 - Social Implications Of Information Processing",
+        "Academic Period": "2022 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      }
+    ]
+  },
+  {
+    "requirement": "Computer Science - Advanced Level Requirement - Undergraduate - 15 Credits",
+    "rows": [
+      {
+        "Requirement": "Computer Science - Advanced Level Requirement - Undergraduate - 15 Credits",
+        "Status": "In Progress",
+        "Remaining": "Minimum 3 Credit(s)",
+        "Registrations Used": "CS 4241 - Webware: Computational Technology For Network Information Systems (In Progress)",
+        "Academic Period": "2024 Fall A Term",
+        "Credits": "3"
+      },
+      {
+        "Requirement": "Computer Science - Advanced Level Requirement - Undergraduate - 15 Credits",
+        "Status": "In Progress",
+        "Remaining": "Minimum 3 Credit(s)",
+        "Registrations Used": "CS 4341 - Introduction To Artificial Intelligence (In Progress)",
+        "Academic Period": "2024 Fall A Term",
+        "Credits": "3"
+      },
+      {
+        "Requirement": "Computer Science - Advanced Level Requirement - Undergraduate - 15 Credits",
+        "Status": "In Progress",
+        "Remaining": "Minimum 3 Credit(s)",
+        "Registrations Used": "CS 4342 - Machine Learning (In Progress)",
+        "Academic Period": "2025 Spring C Term",
+        "Credits": "3"
+      },
+      {
+        "Requirement": "Computer Science - Advanced Level Requirement - Undergraduate - 15 Credits",
+        "Status": "In Progress",
+        "Remaining": "Minimum 3 Credit(s)",
+        "Registrations Used": "CS 4401 - Software Security Engineering (In Progress)",
+        "Academic Period": "2025 Spring D Term",
+        "Credits": "3"
+      }
+    ]
+  },
+  {
+    "requirement": "Computer Science Free Electives Requirement - Undergraduate - 9 Credits",
+    "rows": [
+      {
+        "Requirement": "Computer Science Free Electives Requirement - Undergraduate - 9 Credits",
+        "Status": "In Progress",
+        "Registrations Used": "MA 2071 - Matrices And Linear Algebra I",
+        "Academic Period": "2022 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Computer Science Free Electives Requirement - Undergraduate - 9 Credits",
+        "Status": "In Progress",
+        "Registrations Used": "ES 1310 - Introduction To Computer Aided Design",
+        "Academic Period": "2022 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Computer Science Free Electives Requirement - Undergraduate - 9 Credits",
+        "Status": "In Progress",
+        "Registrations Used": "ID PQP - Pre/Post Qualifying Project",
+        "Academic Period": "2023 Fall B Term",
+        "Credits": "1.5",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Computer Science Free Electives Requirement - Undergraduate - 9 Credits",
+        "Status": "In Progress",
+        "Registrations Used": "BB 1004 - Human Biology (In Progress)",
+        "Academic Period": "2024 Fall A Term",
+        "Credits": "3"
+      },
+      {
+        "Requirement": "Computer Science Free Electives Requirement - Undergraduate - 9 Credits",
+        "Status": "In Progress",
+        "Registrations Used": "RBE 500 - Foundations Of Robotics (Transfer Credit)",
+        "Credits": "0",
+        "Grade": "CR"
+      },
+      {
+        "Requirement": "Computer Science Free Electives Requirement - Undergraduate - 9 Credits",
+        "Status": "In Progress",
+        "Registrations Used": "FY 1800 - Discovering Majors And Careers",
+        "Credits": "0.75",
+        "Grade": "P"
+      }
+    ]
+  },
+  {
+    "requirement": "Unused Courses - Successfully Completed - Undergraduate (Computer Science BS)",
+    "rows": [
+      {
+        "Requirement": "Unused Courses - Successfully Completed - Undergraduate (Computer Science BS)",
+        "Status": "In Progress",
+        "Remaining": "Minimum 166.5 Credit(s)",
+        "Registrations Used": "RBE 1001 - Introduction To Robotics",
+        "Academic Period": "2022 Spring D Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Unused Courses - Successfully Completed - Undergraduate (Computer Science BS)",
+        "Status": "In Progress",
+        "Remaining": "Minimum 166.5 Credit(s)",
+        "Registrations Used": "RBE 2001 - Unified Robotics I",
+        "Academic Period": "2022 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Unused Courses - Successfully Completed - Undergraduate (Computer Science BS)",
+        "Status": "In Progress",
+        "Remaining": "Minimum 166.5 Credit(s)",
+        "Registrations Used": "RBE 2002 - Unified Robotics II",
+        "Academic Period": "2022 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Unused Courses - Successfully Completed - Undergraduate (Computer Science BS)",
+        "Status": "In Progress",
+        "Remaining": "Minimum 166.5 Credit(s)",
+        "Registrations Used": "ECE 2049 - Embedded Computing In Engineering Design",
+        "Academic Period": "2023 Spring C Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Unused Courses - Successfully Completed - Undergraduate (Computer Science BS)",
+        "Status": "In Progress",
+        "Remaining": "Minimum 166.5 Credit(s)",
+        "Registrations Used": "ES 3011 - Control Engineering I",
+        "Academic Period": "2023 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Unused Courses - Successfully Completed - Undergraduate (Computer Science BS)",
+        "Status": "In Progress",
+        "Remaining": "Minimum 166.5 Credit(s)",
+        "Registrations Used": "RBE 3001 - Unified Robotics III",
+        "Academic Period": "2023 Fall A Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Unused Courses - Successfully Completed - Undergraduate (Computer Science BS)",
+        "Status": "In Progress",
+        "Remaining": "Minimum 166.5 Credit(s)",
+        "Registrations Used": "RBE 3002 - Unified Robotics IV",
+        "Academic Period": "2023 Fall B Term",
+        "Credits": "3",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Unused Courses - Successfully Completed - Undergraduate (Computer Science BS)",
+        "Status": "In Progress",
+        "Remaining": "Minimum 166.5 Credit(s)",
+        "Registrations Used": "CS 542 - Database Management Systems",
+        "Academic Period": "2024 Summer Semester",
+        "Credits": "4.5",
+        "Grade": "A"
+      },
+      {
+        "Requirement": "Unused Courses - Successfully Completed - Undergraduate (Computer Science BS)",
+        "Status": "In Progress",
+        "Remaining": "Minimum 166.5 Credit(s)",
+        "Registrations Used": "BME 580/ RBE 580 - Biomedical Robotics (In Progress)",
+        "Academic Period": "2025 Spring D Term",
+        "Credits": "2"
+      },
+      {
+        "Requirement": "Unused Courses - Successfully Completed - Undergraduate (Computer Science BS)",
+        "Status": "In Progress",
+        "Remaining": "Minimum 166.5 Credit(s)",
+        "Registrations Used": "ETR 593 - Technology Commercialization (In Progress)",
+        "Academic Period": "2025 Spring Semester",
+        "Credits": "3"
+      },
+      {
+        "Requirement": "Unused Courses - Successfully Completed - Undergraduate (Computer Science BS)",
+        "Status": "In Progress",
+        "Remaining": "Minimum 166.5 Credit(s)",
+        "Registrations Used": "ME 528/ RBE 501 - Robot Dynamics (In Progress)",
+        "Academic Period": "2025 Spring Semester",
+        "Credits": "3"
+      }
+    ]
+  }
+]
