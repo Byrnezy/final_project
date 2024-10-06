@@ -4,13 +4,14 @@ const TableComponent: React.FC<{ name: string; rowNum: number; tableData: string
   const [inputValue, setInputValue] = useState("");
   const [editIndex, setEditIndex] = useState<number | null>(null);
   const [editValue, setEditValue] = useState("");
+  const [rowNumState, setRowNumState] = useState(rowNum);
 
   const handleInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setInputValue(event.target.value);
   };
 
   const handleAddRow = () => {
-    if (inputValue.trim() !== "") {
+    if (inputValue.trim() !== "" && tableData.length < rowNumState) {
       setTableData([...tableData, inputValue]);
       setInputValue("");
     }

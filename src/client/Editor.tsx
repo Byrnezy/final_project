@@ -33,11 +33,15 @@ theme = createTheme(theme, {
 const Editor: React.FC = () => {
   const navigate = useNavigate();
   const [rowNum, setRowNum] = useState(5);
-  const [tableData, setTableData] = useState<string[]>([]);
+  const [tableDepthData, setDepthTableData] = useState<string[]>([]);
+  const [tableBreadthData, setBreadthTableData] = useState<string[]>([]);
+  const [tableElectiveData, setElectiveTableData] = useState<string[]>([]);
 
   const handleClearData = () => {
     setRowNum(5); // Reset row number to initial value
-    setTableData([]); // Clear table data
+    setDepthTableData([]); // Clear table data
+    setBreadthTableData([]); // Clear table data
+    setElectiveTableData([]); // Clear table data
     console.log("All components have been reset");
   };
   return (
@@ -66,14 +70,22 @@ const Editor: React.FC = () => {
             </Button>
 
             <FileUploadButton />
-            <TableComponent name="My Table" rowNum={rowNum} tableData={tableData} setTableData={setTableData} />
-
-
+            
           </div>
+         
+        </div>
+        <div className="editor-container">
+        <div className="editor-container">
+            <TableComponent name="Depth (4 Courses)" rowNum={rowNum} tableData={tableDepthData} setTableData={setDepthTableData} />
+            </div>
+            <div className="editor-container">
+            <TableComponent name="Breadth (1 Course)" rowNum={rowNum} tableData={tableBreadthData} setTableData={setBreadthTableData} />
+            </div>
+            <div className="editor-container">
+            <TableComponent name="Elective (1 Course)" rowNum={rowNum} tableData={tableElectiveData} setTableData={setElectiveTableData} />
+            </div>
         </div>
       </div>
-      <TableComponent name="My Table" rowNum={rowNum} tableData={tableData} setTableData={setTableData} />
-      <TableComponent name="My Table 2" rowNum={rowNum} tableData={tableData} setTableData={setTableData} />
     </div>
   );
 };
