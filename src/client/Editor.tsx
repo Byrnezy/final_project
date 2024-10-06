@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import { IconButton } from '@mui/material';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import { createTheme } from '@mui/material/styles';
-import TableComponent from './tableComponent';
+import TableComponent from './TableComponent';
 import FileUploadButton from './FileUploadButton';
 // index.js
 
@@ -30,7 +30,7 @@ theme = createTheme(theme, {
 
 
 
-const Editor: React.FC = () => {
+const Editor = () => {
   const navigate = useNavigate();
   const [rowNum, setRowNum] = useState(5);
   const [tableData, setTableData] = useState<string[]>([]);
@@ -72,8 +72,8 @@ const Editor: React.FC = () => {
           </div>
         </div>
       </div>
-      <TableComponent name="My Table" rowNum={rowNum} tableData={tableData} setTableData={setTableData} />
-      <TableComponent name="My Table 2" rowNum={rowNum} tableData={tableData} setTableData={setTableData} />
+      {/*<TableComponent name="My Table" rowNum={rowNum} tableData={tableData} setTableData={setTableData} />
+      <TableComponent name="My Table 2" rowNum={rowNum} tableData={tableData} setTableData={setTableData} />*/}
     </div>
   );
 };

@@ -6,7 +6,7 @@ import ReactDOM from "react-dom/client";
 
 import App from "./App";
 import Home from "./Home";
-import Login from "./login";
+import Login from "./Login";
 import About from "./About";
 import Editor from "./Editor";
 

@@ -27,10 +27,33 @@ const Login = () => {
   const [password, setPassword] = useState('');
   const navigate = useNavigate();
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+
     console.log('Username:', username);
     console.log('Password:', password);
+
+    const response = await fetch ("/login", {
+      method: "POST",
+      body: JSON.stringify({
+        username: username,
+        password: password
+      }),
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    });
+
+    if (response.status === 403) {
+      alert("Incorrect username or password");
+    } else if (response.status === 200) {
+      const json = await response.json();
+      if (json.new === "new") {
+        alert("User created");
+      }
+      navigate('/Home');
+    }
+
   };
 
   return (
@@ -60,10 +83,7 @@ const Login = () => {
           />
         </div>
 
-        <Button variant="contained" type="submit" className="login-button" sx={{ backgroundColor: 'purple', color: 'white' }} onClick={() => {
-    console.log("Login button clicked");
-    navigate('/Home');
-  }}> 
+        <Button variant="contained" type="submit" className="login-button" sx={{ backgroundColor: 'purple', color: 'white' }} onClick={handleSubmit}>
           Login
         </Button>
       </form>
