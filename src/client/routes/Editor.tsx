@@ -8,6 +8,7 @@ import ClassTable from '../components/ClassTable';
 import FileUploadButton from '../components/FileUploadButton';
 import SimpleTable from "../components/SimpleTable";
 import ClassComboBox from "../components/ClassComboBox";
+import CategoriesComboBox from "../components/CategoriesComboBox";
 // index.js
 import React, { useState, useEffect } from "react";
 import { set } from "mongoose";
@@ -185,6 +186,7 @@ const Editor: React.FC = () => {
       </div>
 
       <div className="AutoComplete">
+        <CategoriesComboBox />
         <ClassComboBox />
       </div>
 
